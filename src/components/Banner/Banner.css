@@ -6,7 +6,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding: 0 30px;
+ 
 }
 
 .banner_contents {
@@ -14,6 +14,7 @@
   padding-top: 140px;
   height: 190px;
   max-width: 600px;
+  padding: 0 30px;
 }
 
 .banner_title {
